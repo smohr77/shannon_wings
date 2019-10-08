@@ -8,7 +8,7 @@ body {
     line-height: 18px;
     font-family: 'Maitree', serif;
     color: #fff;
-    background: #9D9D9D;
+    background: #EFEFEF;
 }
 
 
@@ -24,27 +24,28 @@ img {width: 100%;}
 a,button{outline: 0 !important;}
 a:hover,a:focus{ text-decoration: none}
 
-.navbar {
-    background-color: #CCEAF4;
+
+.mynav{
+    background-image: ;
+    height: 500px;
 }
-.navbar-nav a {
-  font-family: 'Luckiest Guy', serif;
-  font-size: 1.5em;
+.mynav {
+    background-color: transparent; ! important;
 }
 .navbar .navbar-brand{
-    color: #FF3B3D;
+    color: #1AA3E9;
     font-weight: bolder;
     font font-size: 10px;
 }
 
 .navbar .nav-item a{
-    color: #CCEAF4; !important;
+    color: #FFF; !inportant;
 }
 .navbar .dropdown-menu {
-    background-color: #CCEAF4;
+    background-color: rgba(0,0,0,0.3);
 }
 .dropdown-item: hover {
-    background-color: #CCEAF4;
+    background-color: rgba(0,0,0,0.3);
 }
 
 /* Background Transition */
@@ -484,7 +485,7 @@ header .caption {
 
 /* Footer */
 footer {
-    background: #9D9D9D none repeat scroll 0 0;
+    background: #A9A9A9 none repeat scroll 0 0;
     padding-bottom: 42px;
 }
 footer h4 {
